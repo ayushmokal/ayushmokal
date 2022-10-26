@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning full stack development 
 - 📫 How to reach me https://linktr.ee/ayushmokal6
 
+[![@ayushmokal's Holopin board](https://holopin.me/ayushmokal)](https://holopin.io/@ayushmokal)
 
 
 <!---
