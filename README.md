@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FULL STACK DEVELOPMENT<br>👯 I’m looking to collaborate on open source projects <br>🌱 I’m currently learning JS, C++ <br>💬 Ask me about anything tech <br>
+🔭 I’m currently working on FULL STACK DEVELOPMENT and Technical Writing <br>👯 I’m looking to collaborate on open source projects <br>🌱 I’m currently learning JS, C++ <br>💬 Ask me about anything tech <br>
 
 
 ## 🌐 Socials:
