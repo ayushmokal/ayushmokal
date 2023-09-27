@@ -31,3 +31,5 @@ Making Cities Sustainable, Rewarding, and Fun. It's the app that makes a differe
 🎉 Thanks for stopping by! Feel free to reach out for collaborations or just a chat.
 
 ![](https://komarev.com/ghpvc/?username=ayushmokal)
+
+[![Peerlist](https://github-readme-badge.peerlist.io/api/ayushmokal?style=social)](https://peerlist.io/ayushmokal)
