@@ -13,9 +13,6 @@ I'm a passionate Full Stack Developer and Technical Writer. With a knack for cra
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushmokal/) [![Bento](https://img.shields.io/badge/Bento-FF4500?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/ayushmokal)
 
 
-## 📊 My GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ayushmokal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayushmokal&theme=dark&hide_border=false)<br/>
 
 🎉 Thanks for stopping by! Feel free to reach out for collaborations or just a chat.
 
